@@ -1,0 +1,9 @@
+{
+    "name": "Hello World",
+    "description": "My First Chrome Extension that shows up Hello World",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "helloworld.html"
+    }
+}
